@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.homeContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e8e2e2ab;
+  box-shadow: 5px 5px 5px rgba(0, 0%, 0%, 0.78);
+}
+
+.childContainer {
+  width: fit-content;
+  height: 200px;
+  margin: 40px;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.profile{
+  border-radius: 50%;
+}
+
+.pinkColor {
+  color: deeppink;
+}
