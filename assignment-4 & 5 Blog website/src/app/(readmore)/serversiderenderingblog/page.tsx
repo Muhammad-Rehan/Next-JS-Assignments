@@ -1,5 +1,5 @@
 
-import Image from "next/image"
+
 
 
 const ServerSideRenderingBlog = ()=> {
@@ -13,7 +13,7 @@ const ServerSideRenderingBlog = ()=> {
             <h1 className="text-[20px] font-bold pb-4">Key Concepts of SSR in Next.js</h1>
             <ol>
                 <li  className="pb-5"><span className="font-bold">1: Dynamic Content: </span> SSR is particularly useful for pages that require dynamic data fetching, ensuring that users see the most up-to-date content.</li>
-                <li  className="pb-5"><span className="font-bold">2: SEO Benefits: </span> Search engines can crawl the fully rendered HTML, which can improve your site's visibility.</li>
+                <li  className="pb-5"><span className="font-bold">2: SEO Benefits: </span> Search engines can crawl the fully rendered HTML, which can improve your sites visibility.</li>
                 <li  className="pb-5"><span className="font-bold">3: Performance:</span> While SSR can be slower than client-side rendering for subsequent navigation (since each page load hits the server), it can improve perceived performance for the first page load.</li>
                 
             </ol>

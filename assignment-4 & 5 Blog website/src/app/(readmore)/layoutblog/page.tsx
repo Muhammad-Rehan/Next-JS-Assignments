@@ -19,7 +19,7 @@ In Next.js, a layout is a component that provides a consistent structure and des
                 
             </ol>
             <h1 className="text-[20px] font-bold pb-4">Creating a Layout in Next.js:</h1>
-            <p className="pb-4">Here's a basic example of how to create and use a layout component in a Next.js application:</p>
+            <p className="pb-4">Here is a basic example of how to create and use a layout component in a Next.js application:</p>
             <h2>1: Create a Layout Component:</h2>
             <Image className="bg-cover w-[80%]" src={'/code-2.png'} width={200} height={200} alt="code"/>
             <h2 className="pt-4">2: Use the Layout in Pages:</h2>
@@ -29,7 +29,7 @@ In Next.js, a layout is a component that provides a consistent structure and des
             <h2 className="pt-4">Using Next.js App Directory (for v13 and above):</h2>
             
             <p className="pt-4">
-            If you're using the App Router introduced in Next.js 13, layouts are handled a bit differently. You can create a layout file within the app directory:</p>
+            If you are using the App Router introduced in Next.js 13, layouts are handled a bit differently. You can create a layout file within the app directory:</p>
             <Image className="bg-cover w-[80%]" src={'/code-5.png'} width={200} height={200} alt="code"/>
             <h3 className="text-center pt-7 text-[20px] font-bold font-mono pb-5">Thank you for reading the blog.</h3>
         </div>

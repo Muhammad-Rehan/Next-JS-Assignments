@@ -1,5 +1,5 @@
 
-import Image from "next/image"
+
 
 
 const ClientSideRenderingBlog = ()=> {
@@ -13,7 +13,7 @@ const ClientSideRenderingBlog = ()=> {
             <h1 className="text-[20px] font-bold pb-4">Key Concepts</h1>
             <ol>
                 <li  className="pb-5"><span className="font-bold">1: Dynamic Pages:  </span> CSR is particularly useful for pages that require frequent updates or user interactions, such as dashboards or applications with real-time data.</li>
-                <li  className="pb-5"><span className="font-bold">2: React Components: </span> In Next.js, you can create components that leverage React's state and lifecycle methods to manage dynamic data.</li>
+                <li  className="pb-5"><span className="font-bold">2: React Components: </span> In Next.js, you can create components that leverage Reacts state and lifecycle methods to manage dynamic data.</li>
                 <li  className="pb-5"><span className="font-bold">3: Data Fetching: </span> While Next.js supports various data fetching methods (like getStaticProps and getServerSideProps), you can also fetch data on the client side using hooks like useEffect.</li>
                 
             </ol>

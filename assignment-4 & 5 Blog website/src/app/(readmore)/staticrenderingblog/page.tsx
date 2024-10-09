@@ -6,10 +6,10 @@ const StaticRenderingBlog = ()=> {
             <h1 className="text-center uppercase font-bold pb-3 text-[20px]">Static rendering in Next.js </h1>
             <p className="pt-4 pb-4 text-[18px]">
             
-            Static rendering in Next.js refers to the process of generating HTML at build time for pages that don't change frequently. This approach results in faster page loads and better performance since the content is pre-rendered and served as static files.Whenever a user visits your application, the cached result is served. There are a couple of benefits of static rendering:
+            Static rendering in Next.js refers to the process of generating HTML at build time for pages that do not change frequently. This approach results in faster page loads and better performance since the content is pre-rendered and served as static files.Whenever a user visits your application, the cached result is served. There are a couple of benefits of static rendering:
             </p>
             <ol>
-                <li  className="pb-5"><span className="font-bold">1: Faster Websites:  </span> Prerendered content can be cached and globally distributed. This ensures that users around the world can access your website's content more quickly and reliably.</li>
+                <li  className="pb-5"><span className="font-bold">1: Faster Websites:  </span> Prerendered content can be cached and globally distributed. This ensures that users around the world can access your websites content more quickly and reliably.</li>
                 <li  className="pb-5"><span className="font-bold">2: Reduced Server Load:  </span> Because the content is cached, your server does not have to dynamically generate content for each user request.</li>
                 <li  className="pb-5"><span className="font-bold">3: SEO: </span> Prerendered content is easier for search engine crawlers to index, as the content is already available when the page loads. This can lead to improved search engine rankings.</li>
             </ol>

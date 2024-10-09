@@ -7,10 +7,10 @@ const AboutAuthor = ()=> {
             <h1 className="text-center uppercase font-bold pb-3 text-[20px] " >About Author </h1>
             <p className="pt-4 pb-4 text-[18px]">
             
-            Assalamoalikum. This is Muhammad Rehan. By professional I'm a Team Leader in Trading company where we supply different industrial products inculding machineries , pumps , Chillers, Heat Exchanger and spares of different equipment in industries of Pakistan which includes Oil and Gas, Fertilizers, Refineries, Chemical, Food , and many other industries in Pakistan.   
+            Assalamoalikum. This is Muhammad Rehan. By professional I am a Team Leader in Trading company where we supply different industrial products inculding machineries , pumps , Chillers, Heat Exchanger and spares of different equipment in industries of Pakistan which includes Oil and Gas, Fertilizers, Refineries, Chemical, Food , and many other industries in Pakistan.   
             </p>
             <p className="pt-4 pb-4 text-[18px]">
-                Beside above I'm being a part of GIAIC as a student and leaning different tech skills which helps us to grow and compete in the tech industries. 
+                Beside above I am being a part of GIAIC as a student and leaning different tech skills which helps us to grow and compete in the tech industries. 
             </p>
 
             <p className="pt-4 pb-4 text-[18px]">
